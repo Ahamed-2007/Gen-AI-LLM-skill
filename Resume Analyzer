@@ -1,0 +1,112 @@
+Link: https://udify.app/workflow/XaJaTTnbF12mvB5w
+
+🤖 AI Resume Analyzer
+
+An AI-powered Resume Analyzer that evaluates a resume against a job description and provides personalized career guidance.
+
+The system analyzes the candidate's resume, identifies matching and missing skills, suggests suitable career roles, recommends projects to build, and provides actionable improvements to make the resume more effective and ATS-friendly.
+
+✨ Features
+📄 Resume Analysis – Upload your resume in PDF format.
+🎯 Job Description Matching – Compare your resume with a specific job description.
+📊 Resume Score – Get an overall resume score out of 100.
+🤖 ATS Analysis – Evaluate how well the resume matches ATS requirements.
+✅ Strong Skills – Identify the skills already present in the resume.
+📚 Skills to Improve – Get recommendations on which skills should be improved.
+❌ Missing Skills – Identify important skills required by the target job but missing from the resume.
+💼 Career Recommendations – Suggest suitable job roles based on the candidate's profile.
+🚀 Project Recommendations – Recommend projects that can strengthen the candidate's resume.
+📝 Resume Improvement – Get suggestions for improving resume content and presentation.
+🎯 Personalized Action Plan – Receive a step-by-step plan for improving your profile.
+🔄 How It Works
+Upload Resume
+      ↓
+Extract Resume Content
+      ↓
+Enter Job Description
+      ↓
+AI Resume Analysis
+      ↓
+Compare Skills & Requirements
+      ↓
+Generate Personalized Recommendations
+      ↓
+Final Resume & Career Report
+🧠 AI Analysis
+
+The AI evaluates the resume based on:
+
+Technical skills
+Soft skills
+Education
+Certifications
+Projects
+Internships
+Work experience
+Job-specific keywords
+ATS compatibility
+Skill gaps
+Career suitability
+📋 Example Output
+Overall Resume Score: 84/100
+
+ATS Score: 80/100
+
+Strong Skills:
+- Python
+- SQL
+- Machine Learning
+- Git
+- Generative AI
+
+Skills to Improve:
+- FastAPI
+- Docker
+- REST APIs
+
+Missing Skills:
+- LangChain
+- Cloud deployment
+
+Suitable Roles:
+- AI/ML Intern
+- Generative AI Intern
+- Python Developer Intern
+
+Projects to Try:
+- AI Chatbot
+- Resume Screening System
+- AI Document Analyzer
+
+Action Plan:
+1. Improve REST API development
+2. Learn FastAPI
+3. Build and deploy an AI project
+4. Add measurable project results to the resume
+🛠️ Technology Used
+Dify – AI workflow orchestration
+Large Language Model (LLM) – Resume analysis and recommendations
+Document Extractor – Extracts content from uploaded resumes
+Prompt Engineering – Structured resume and career analysis
+PDF Processing – Resume content extraction
+🎯 Purpose
+
+The goal of this project is to help students and job seekers understand how well their resume matches a specific job, identify their skill gaps, and receive personalized recommendations for improving their career profile.
+
+Instead of providing only an ATS score, the analyzer provides actionable guidance on what to learn, what projects to build, and which roles to consider.
+
+🚀 Future Enhancements
+Resume rewriting using AI
+Automatic keyword optimization
+Multiple job description comparison
+Personalized learning roadmap
+Interview question generation
+Cover letter generation
+Job recommendation system
+Resume version comparison
+LinkedIn profile analysis
+👩‍💻 Project
+
+AI Resume Analyzer – AI-powered Resume & Career Guidance System
+
+Built to make resume analysis more personalized, practical, and career-focused.
